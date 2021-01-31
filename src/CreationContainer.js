@@ -104,10 +104,9 @@ class CreateCharacter extends Component {
 			</div>
 			<div
 				id = 'Creators'>
-				<h3>Design Team:</h3>
-						<h4>Sean</h4>
-						<h4>Ajax</h4>
-						<h4>Miko</h4>
+				<h3>Designed by:</h3>
+						<h4>Keefe Brown</h4>
+
 			</div>
 			<GameContainer
 				wallet = {this.state.wallet}

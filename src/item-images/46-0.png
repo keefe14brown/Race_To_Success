@@ -1,0 +1,8 @@
+module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAclBMVEUAAAAAAABWVlaRLRFoaGiOjo7bRBqCgoJ3JA5YWFiioqJvb2+oNBSZmZlRGQpcHAtnIAxsIQ2RLBFvIg2HKhCIKhCVLhFaHAtUGgpGFgg9EwdJFwmEKRCiMhNZGwp8Jw5jHgx9Jw+PLBFlHwxhHgxVGgpUeQKZAAAAAXRSTlMAQObYZgAAAWtJREFUOE+VkIlygzAMRC0f2BibI+S+r/7/L1ayTAJJ2mk1zBhm367FCvG/KYwpfpOVklKpnxB0m0LKdHyS2Y6HlIDHixyMkTIoaQwAHhJfwsSNdqUACgAS01fxSAmK7JgLPBKhxBnFKYcl8bgfI4WkLVJKs2bgujgoRbykwV0D4Jda3752GbgclgsKkfkOst+a3X0EXC8nSuGiyN2jOgU6SglUdSD3GPAZoJtUWg0VBnQCovcDcF2c+luyElBVAwDeZ+DS5ez+XmkYgBiBU0aARl3rB0BI9E+gqiqSM2CtRQDwosiAJhWfsiwzEKMFCsFdup7MVNcTmLtoSaXHR9SB7IDyZpuLaufRJgaX0ZQOutTlth416dq0SAbQXNabl6qPmEI5dDO6m1HVsz1X7VoGNLnT39YMCOFmXPXcWUur5apX4jl7x1W3x6bmqle1mE43m1R9Fu+zdwPw5h4G10Xgsdqncd15vNpf5hsT/Sgn8N3hCwAAAABJRU5ErkJggg=="
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/item-images/46-0.png
+// module id = ./src/item-images/46-0.png
+// module chunks = 0
