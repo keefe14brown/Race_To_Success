@@ -1,3 +1,6 @@
+OVERVIEW: This another version of the Trading Places, inspired game, previously built with vanilla Js. This version is built with React, and react router. the game is meant to be developed into a full RPG adventure game soon.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
