@@ -43,7 +43,7 @@ export let Scenes = {
 			let text = "Infamous Finance giants, Randolph and Mortimer Duke are the richest men in America. They often find themselves bored with dominating the world through investments and finance.  One day Mortimer has an exciting idea.......";
 			return text;
 		} else {
-			let text = "Infamous Finance giants, Randolph and Mortimer Duke are the richest men in America. They often find themselves bored with dominating the world through investments and finance.  One day Mortimer has an exciting idea.......";
+			let text = "Infamous Financal giants, Randolph and Mortimer Duke are the richest men in America. They often find themselves bored with dominating the world through investments and finance.  One day Mortimer has an exciting idea.......";
 			return text;
 		}
 	}, [
@@ -53,10 +53,10 @@ export let Scenes = {
 			},
 			(game) => {
 				if (game.race === "option2") {
-					this.showButton=true;
+					this.showButton=false;
 					return this.showButton;
 				} else {
-					this.showButton=false;
+					this.showButton=true;
 					return this.showButton;
 				}
 			}
