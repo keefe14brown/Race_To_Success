@@ -103,7 +103,7 @@ export var Scenes = {
 		new LevelButton("Onward to adventure!", (game) => {
 			game.nextLevel(Scenes.Outside_Now);
 		}),
-	], [['img', 'startercave.jpg']]),
+	], [['img', 'knight.jpg']]),
 
 
 	Sobriety: new Scene('Cave', (game) => {
